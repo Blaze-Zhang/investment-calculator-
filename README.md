@@ -1,9 +1,12 @@
-# Investment Allocation Calculator
+# Personal Investment Toolkit
 
-A personal Python tool to calculate investment amount allocation across different assets.
+A collection of Python tools for personal investment management.
 
-## What it does
-Helps me decide how much to allocate to each investment position based on my own criteria.
+## Tools
+- **ETF Calculator** - ETF investment allocation calculator
+- **Crypto Calculator** - Cryptocurrency investment calculator  
+- **Rebalance Tool** - Portfolio rebalancing calculator
+- **DCA Tracker** - Dollar cost averaging record tracker
 
-## Usage
-Built for personal use. Feel free to fork and adapt it to your own needs.
+## Notes
+Built for personal use. Feel free to fork and adapt to your own needs.
